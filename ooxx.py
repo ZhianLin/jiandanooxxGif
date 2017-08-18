@@ -1,7 +1,7 @@
 #coding: utf-8 #############################################################  
 # File Name: main.py  
-# Author: mylonly  
-# mail: mylonly@gmail.com  
+# Author:    
+# mail:    
 # Created Time: Wed 11 Jun 2014 08:22:12 PM CST  
 #########################################################################  
 #!/usr/bin/python  
